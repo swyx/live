@@ -1,5 +1,8 @@
-
 /* Aquí puedes agregar tus estilos CSS avanzados */
+@font-face {
+  font-family: 'Roboto Light';
+  src: url('../font/Roboto-Light.ttf') format('truetype');
+}
 body {
   background-color: black;
   color: white;
