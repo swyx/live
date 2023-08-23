@@ -1,3 +1,3 @@
-#EXTM3U url-tvg = "./live/info.xml"
+#EXTM3U url-tvg = "./live/info.xmltv"
 #EXTINF:-1 tvg-id="atv.pe",ATV + HD
 http://190.83.60.34:1414/play/a03m
