@@ -1,3 +1,3 @@
 #EXTM3U url-tvg = "./live/XMLTV.xml"
-#EXTINF:-1 tvg-id="tv-arena-sport-1.sport",ATV Noticias HD
+#EXTINF:-1 tvg-id="tv-arena-sport-1.sport",Arena Sport 1 RS
 http://190.83.60.34:1414/play/a03m
