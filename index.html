@@ -3,53 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Streaming Interactivo</title>
-  <link rel="stylesheet" href="styles.css">
-  <style>
-    @font-face {
-      font-family: 'Roboto Light';
-      src: url('./index/font/Roboto-Light.ttf') format('truetype');
-    }
-  </style>
+  <title>Streaming Interactivo Avanzado</title>
+  <link rel="stylesheet" href="./index/style/styles.css">
 </head>
-<body style="background-color: black; color: white; font-family: 'Roboto Light', Arial, sans-serif; margin: 0;">
-  <header style="background-color: #111; padding: 20px; text-align: center;">
-    <h1 style="margin: 0;">Bienvenido a StreamWave</h1>
+<body>
+  <header>
+    <h1>Bienvenido a StreamWave</h1>
     <p>Disfruta de contenido en streaming de alta calidad</p>
   </header>
-  <nav style="background-color: #222; text-align: center; padding: 10px 0;">
+  <nav>
     <a href="#">Inicio</a>
     <a href="#">Catálogo</a>
     <a href="#">En Vivo</a>
     <a href="#">Contacto</a>
   </nav>
-  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 20px;">
-    <div class="feature" style="background-color: #333; border-radius: 5px; padding: 20px; margin: 20px 0;">
+  <div class="container">
+    <div class="feature" id="liveFeature">
       <h2>¡Transmisiones en Vivo!</h2>
       <p>Únete a nuestras emocionantes transmisiones en vivo y participa en tiempo real.</p>
-      <a href="#" class="button" style="background-color: #e60278;">Ver transmisiones en vivo</a>
+      <a href="#" class="button">Ver transmisiones en vivo</a>
     </div>
-    <div class="feature" style="background-color: #333; border-radius: 5px; padding: 20px; margin: 20px 0;">
+    <div class="feature" id="catalogFeature">
       <h2>Explora Nuestro Catálogo</h2>
       <p>Descubre una amplia variedad de películas y series en nuestro catálogo.</p>
-      <a href="#" class="button" style="background-color: #e60278;">Explorar catálogo</a>
+      <a href="#" class="button">Explorar catálogo</a>
     </div>
-    <div class="interactive-section" style="text-align: center;">
+    <div class="interactive-section">
       <h2>¡Gira la Ruleta y Gana!</h2>
       <p>Haz clic en el botón para girar la ruleta y ganar premios sorpresa.</p>
-      <button id="spinButton" class="button" style="background-color: #e60278;">Girar la Ruleta</button>
-      <p id="result" style="font-weight: bold; margin-top: 10px;"></p>
+      <button id="spinButton" class="button">Girar la Ruleta</button>
+      <p id="result" class="result-text"></p>
     </div>
   </div>
-  <script>
-    const spinButton = document.getElementById('spinButton');
-    const resultText = document.getElementById('result');
-    const prizes = ['3 días gratis', 'Stickers exclusivos', 'Acceso VIP'];
-
-    spinButton.addEventListener('click', () => {
-      const randomIndex = Math.floor(Math.random() * prizes.length);
-      resultText.textContent = `¡Has ganado: ${prizes[randomIndex]}!`;
-    });
-  </script>
+  <script src="./index/script/script.js"></script>
 </body>
 </html>
