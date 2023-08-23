@@ -267,13 +267,23 @@ https://dmxleo.dailymotion.com/cdn/manifest/video/x7x4dgx.m3u8?auth=x&cs=dmx_1Uw
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/unknownchannel.png"  group-title="Peliculas", Cine
 https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/unknownchannel.png" group-title="Infantil", Nick Jr
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/64.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/unknownchannel.png"  group-title="Peliculas", Studio Universal HD
-http://190.83.60.34:1414/play/a03w
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/unknownchannel.png"  group-title="Peliculas", TNT Series HD
-http://190.83.60.34:1414/play/a034
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg" group-title="PLUTO TV", Cine Familia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=32c6ca2e-f495-4031-a3af-a9c3a54c5be8&clientModelNumber=na&deviceDNT=false&deviceId=32c6ca2e-f495-4031-a3af-a9c3a54c5be8&deviceLat=25.7631&deviceLon=-100.2784&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=VE&serverSideAds=true&sessionID=6f2c7ef7-ad4d-11eb-8b19-0242ac110002&sid=6f2c7ef7-ad4d-11eb-8b19-0242ac110002&userId=
 #EXTINF:-1 group-title="CHILE" tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Kids *
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="2MB | Distrito Comedia" tvg-logo="https://static.epg.best/mx/DistritoComedia.mx.png" group-title="TV | 2 Megas",2MB | Distrito Comedia
+http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/2092591
+#EXTINF:-1,CINE - Distrito Comedia (M)(1080)
+http://tv.proyectox.vip:43201/jo53mo5qu3/aCAmAzsKx8/26923
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="E | Lifetime" tvg-logo="https://static.epg.best/mx/Lifetime.mx.png" group-title="TV | Entretenimiento",E | Lifetime
+http://magi-stv.net:8080/BUZZTVAK/E9ZG2U/187634
+#EXTINF:-1,HISTORY 2 HD
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:-1,Boomerang (cartoonito)
+http://45.166.92.22:58001/play/a02u/index.m3u8
+#EXTINF:-1  group-title="DistroRegio" , Horrorfy
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/b4f8e64d-5edb-4079-aaba-673fc42c3e95/1.m3u8
+#EXTINF:-1  group-title="DistroRegio" , Tu Cine Latam
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/cfe8ccbe-2255-4d15-9efd-8f9bb65de48a/0.m3u8
+#EXTINF:-1  group-title="DistroRegio" , Top Cine Latam
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/0ecdf86f-bdf8-41fd-b550-449420410c73/0.m3u8
