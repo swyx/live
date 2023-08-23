@@ -1,38 +1,9 @@
 <tv>
-<channel id="ATV.pe">
-<display-name>ATV</display-name>
+<channel id="I3.12421.schedulesdirect.org">
+	<display-name>KILM</display-name>
+	<display-name>3 KILM</display-name>
+	<display-name>3</display-name>
+	<display-name>BOUNCE</display-name>
+	<icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" width="360" height="270" />
 </channel>
-
-
-<programme channel="ATV.pe">
-<title lang="es">ATV</title>
-<desc lang="es">Canal de Television Peruana.</desc>
-<category lang="es">Peru</category>
-<category lang="es">Noticias</category>
-<icon src="https://onlive.webcindario.com/logo/atv.jpg"/>
-<country lang="es">Peru</country>
-</programme>
-
-
-
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-
-<tv source-info-name="Schedules Direct" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
-	<channel id="I3.12421.schedulesdirect.org">
-		<display-name>KILM</display-name>
-		<display-name>3 KILM</display-name>
-		<display-name>3</display-name>
-		<display-name>BOUNCE</display-name>
-		<icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" width="360" height="270" />
-	</channel>
-	
-	<channel id="I122.11097.schedulesdirect.org">
-		<display-name>SYFY</display-name>
-		<display-name>122 SYFY</display-name>
-		<display-name>122</display-name>
-		<icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" width="360" height="270" />
-	</channel>
-	
-	
 </tv>
