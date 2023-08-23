@@ -1,9 +1,6 @@
 <tv>
-<channel id="I3.12421.schedulesdirect.org">
-	<display-name>KILM</display-name>
-	<display-name>3 KILM</display-name>
-	<display-name>3</display-name>
-	<display-name>BOUNCE</display-name>
-	<icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" width="360" height="270" />
+<channel id="atv.pe">
+	<display-name>ATV</display-name>
+	<icon src="https://onlive.webcindario.com/logo/atv.jpg" width="360" height="270" />
 </channel>
 </tv>
