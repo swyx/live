@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv>
-  <channel id="atv.pe">
-    <display-name>ATV</display-name>
-    <icon src="https://onlive.webcindario.com/logo/atv.jpg"/>
-  </channel>
-</tv>
+<tv source-data-url="https://tvprofil.net/api/xmltv/" source-info-name="TvProfil API v2.0 - XMLTV" source-info-url="https://tvprofil.com">
+<channel id="tv-arena-sport-1.sport">
+<display-name>Arena Sport 1 RS</display-name>
+<url>https://www.tvarenasport.com</url>
+<icon src="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/Arena_Sport_1_RS_logo.png"/>
+</channel>
