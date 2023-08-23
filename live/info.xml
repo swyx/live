@@ -1,3 +1,6 @@
-<tv>
-<channel id="atv.pe"><display-name>ATV</display-name><icon src="https://onlive.webcindario.com/logo/atv.jpg" width="360" height="270" /></channel>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1692808276">
+  <channel id="atv.pe">
+    <display-name>ATV</display-name>
+    <icon src="https://onlive.webcindario.com/logo/atv.jpg"/>
+  </channel>
 </tv>
