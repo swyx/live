@@ -22,13 +22,18 @@
   color: white;
 }
 
+.nav-container {
+  background-color: #222;
+  padding: 10px 0;
+  text-align: center;
+}
+
 .nav-list {
   list-style: none;
   padding: 0;
   display: flex;
   justify-content: center;
-  background-color: transparent;
-  margin-top: 15px;
+  margin: 0;
 }
 
 .nav-list li {
@@ -39,11 +44,30 @@
   text-decoration: none;
   font-size: 1.2rem;
   color: white;
+  position: relative;
   transition: color 0.3s;
+}
+
+.nav-list a::before {
+  content: "";
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: transparent;
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.3s, background-color 0.3s;
 }
 
 .nav-list a:hover {
   color: #e60278;
+}
+
+.nav-list a:hover::before {
+  transform: scaleX(1);
+  background-color: #e60278;
 }
 
 
