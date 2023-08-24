@@ -1,3 +1,3 @@
 #EXTM3U url-tvg = "https://swyx.github.io/live/XMLTV.xml"
-#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-name="Canal deportivo en linea.",Arena Sport 1 RS
+#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-name="Canal 1" tvg-logo="https://onlive.webcindario.com/logo/atv.jpg" tvg-description="Canal deportivo" group-title="Canales Peru", ATV Zac
 http://190.83.60.34:1414/play/a03m
