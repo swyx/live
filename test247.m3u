@@ -1,0 +1,24 @@
+#EXTM3U
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="Lista 16",Looney Tunes 24/7
+https://3.ultimate2019.com/stream/hls/524
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="Lista 16",Looney Tunes 24/7
+http://bgtv.site/play/play-900.php?ul=524&token=kjkjgjhg
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="Lista 16",Malcolm HD 24/7
+https://3.ultimate2019.com/stream/hls/798
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png" group-title="Lista 16",Ironman 24/7
+https://3.ultimate2019.com/stream/hls/948
