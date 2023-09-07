@@ -2,6 +2,72 @@
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="Lista 16",Win Sports + (col)
+https://3.ultimate2019.com/stream/hls/292
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Lista 16",SyFy HD (es)
+https://3.ultimate2019.com/stream/hls/969
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_estrenos.png" group-title="Lista 16",Movistar Estrenos HD NA
+https://3.ultimate2019.com/stream/hls/976
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_series.png" group-title="Lista 16",Movistar Series HD NA
+https://3.ultimate2019.com/stream/hls/924
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="Lista 16",Movistar Comedia NA
+https://3.ultimate2019.com/stream/hls/370
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Lista 16",Movistar Deportes 2 HD - Liga de Campeones (es) NA
+https://3.ultimate2019.com/stream/hls/367
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Lista 16",Movistar Deportes Sur (es)
+https://3.ultimate2019.com/stream/hls/366
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="Lista 16",ESPN Premium HD
+https://3.ultimate2019.com/stream/hls/952
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Lista 16",DirecTV Sports HD
+https://3.ultimate2019.com/stream/hls/974
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Lista 16",AXN HD (ES)
+https://3.ultimate2019.com/stream/hls/713
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Lista 16",DHE
+https://3.ultimate2019.com/stream/hls/844
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="Lista 16",Looney Tunes 24/7
 https://3.ultimate2019.com/stream/hls/524
 
