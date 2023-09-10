@@ -215,7 +215,6 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/64.m3u8
 http://190.83.60.34:1414/play/a03v
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/panamericana.jpg" group-title="Peru", Panamericana TV - | HD NFunk
 http://00322.xyz:8000/coachprato/40437757/4838
-https://cdn74.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cable", PlanetaTV Kids Chl | HD+
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/romancetv.png" group-title="Peliculas", Romance TV SD480
