@@ -22,7 +22,7 @@ http://190.83.60.34:1414/play/a01f
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Lista 16",AXN - Es | HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/axn.jpg" group-title="Lista 16", AXN - Es | HD
 https://3.ultimate2019.com/stream/hls/713
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/amc.jpg" group-title="Peliculas", AMC | HD+
 http://190.83.60.34:1414/play/a03m
@@ -50,7 +50,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/166.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/176.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/bravo.jpg" group-title="Internacional", Bravo - US | HD+
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/192.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Musica", BHTV | HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/bhtv.png" group-title="Musica", BHTV | HD
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/boomerang.png" group-title="Infantil;Internacional", Boomerang - US | HD
 http://00322.xyz:8000/coachprato/40437757/131332
@@ -58,7 +58,7 @@ http://00322.xyz:8000/coachprato/40437757/131332
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cartoonetwork.jpg" group-title="Infantil", Cartoon Network | HD+
 http://190.83.60.34:1414/play/a03u
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/cu/193260/png/193260.png" group-title="Infantil", Cartoon Network | HD+
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cartoonetwork.jpg" group-title="Infantil", Cartoon Network | HD+
 http://00322.xyz:8000/coachprato/40437757/149687
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cartoonetwork.jpg" group-title="Infantil", Cartoon Network West TVE Feed | HD
 https://turnerlive.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
@@ -94,11 +94,6 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/226.m3u8
 http://204.199.120.34:16123/play/ch06
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="Peru", CANAL N SD
 http://00322.xyz:8000/coachprato/40437757/3331
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas", DHE | HD
-https://3.ultimate2019.com/stream/hls/844
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/disneychannellatam.jpg" group-title="Infantil", Disney Channel | HD+
 http://190.83.60.34:1414/play/a023
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/disneychannellatam.jpg" group-title="Infantil", Disney Channel | HD+
@@ -160,6 +155,11 @@ http://179.51.161.3:8000/play/a056/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirecTV Sports HD
 https://3.ultimate2019.com/stream/hls/974
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas", DHE SD540
+https://3.ultimate2019.com/stream/hls/844
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/dhe.png" group-title="Peliculas;Internacional", DHE | HD+
 http://190.83.60.34:1414/play/a059
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/exitosa.jpg" group-title="Peru", Exitosa Noticias - | HD
@@ -417,7 +417,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/80.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas", SyFy - Es | HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/syfy.jpg" group-title="Peliculas", SyFy - Es | HD
 https://3.ultimate2019.com/stream/hls/969
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/startve.png" group-title="Cable", STAR TVE | HD+
 http://190.83.60.34:1414/play/a03x
@@ -465,7 +465,7 @@ http://167.250.222.35:16000/play/a09d/index.m3u8
 http://00322.xyz:8000/coachprato/40437757/3750
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/univision.jpg" group-title="Cable", Univision - US NFunk
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/173.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/e59013ac35938a2f9c304485f031f255.png" group-title="Musica;Peliculas;Peru", Uranio TV | HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/uraniotv.png" group-title="Musica;Peliculas;Peru", Uranio TV | HD
 https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/vallenatointernacional.jpg" group-title="Musica", Vallenato Internacional | HD
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
