@@ -6,7 +6,7 @@ https://onlive.webcindario.com/UserAgent/files/3.m3u8
 https://onlive.webcindario.com/UserAgent/files/2.m3u8
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirecTV Sports HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirecTV FHD
 https://3.ultimate2019.com/stream/hls/974
 
 #EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="PlutoTvMx" , Cine Estelar | HD
