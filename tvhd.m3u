@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="247",Looney Tunes 24/7
 https://onlive.webcindario.com/UserAgent/files/3.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="247",Malcolm HD 24/7
-https://onlive.webcindario.com/UserAgent/files/1.m3u8
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png" group-title="247",Ironman 24/7
 https://onlive.webcindario.com/UserAgent/files/2.m3u8
 
