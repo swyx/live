@@ -1,15 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="247",Looney Tunes 24/7
-https://onlive.webcindario.com/UserAgent/247.php?stream=looney
+https://onlive.webcindario.com/UserAgent/lista.php?stream=canal1
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="247",Malcolm HD 24/7
-https://onlive.webcindario.com/UserAgent/247.php?stream=malcom
+https://onlive.webcindario.com/UserAgent/lista.php?stream=canal2
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png" group-title="247",Ironman 24/7
-https://onlive.webcindario.com/UserAgent/247.php?stream=ironman
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Tom y Jerry 24/7
-https://onlive.webcindario.com/UserAgent/247.php?stream=tomyjerry
+https://onlive.webcindario.com/UserAgent/lista.php?stream=canal3
 
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/atv.jpg" group-title="Peru", ATV | HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
