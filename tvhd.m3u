@@ -5,6 +5,10 @@ https://onlive.webcindario.com/UserAgent/files/3.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png" group-title="247",Ironman 24/7
 https://onlive.webcindario.com/UserAgent/files/2.m3u8
 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirecTV Sports HD
+https://3.ultimate2019.com/stream/hls/974
+
 #EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="PlutoTvMx" , Cine Estelar | HD
 https://onlive.webcindario.com/PlutoTV/Mx/live.php?tv=estelar
 
