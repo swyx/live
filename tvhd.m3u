@@ -8,6 +8,15 @@ https://onlive.webcindario.com/UserAgent/lista.php?stream=canal2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png" group-title="247",Ironman 24/7
 https://onlive.webcindario.com/UserAgent/lista.php?stream=canal3
 
+#EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="PlutoTvMx" , Cine Estelar | HD
+https://onlive.webcindario.com/PlutoTV/Mx/live.php?tv=estelar
+
+#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="PlutoTvMx" , Cine Acción | HD
+https://onlive.webcindario.com/PlutoTV/Mx/live.php?tv=accion
+
+#EXTINF:-1 channel-id="pluto-5e972a21ad709d00074195ba" tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="PlutoTvMx" , Estrellas de Acción | HD
+https://onlive.webcindario.com/PlutoTV/Mx/live.php?tv=estrellas
+
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/atv.jpg" group-title="Peru", ATV | HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/atvplus.jpg" group-title="Peru", ATV+ Noticias | HD
