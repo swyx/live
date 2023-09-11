@@ -3,7 +3,7 @@
 https://onlive.webcindario.com/UserAgent/files/3.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png" group-title="247",Ironman 24/7
-https://onlive.webcindario.com/UserAgent/files/2.m3u8
+https://onlive.webcindario.com/UserAgent/files/22.m3u8
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirecTV FHD
