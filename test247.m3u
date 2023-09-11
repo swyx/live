@@ -1,84 +1,114 @@
 #EXTM3U
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="Lista 16",Win Sports + (col)
-https://3.ultimate2019.com/stream/hls/292
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="247",Looney Tunes 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=looney
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Lista 16",SyFy HD (es)
-https://3.ultimate2019.com/stream/hls/969
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="247",Malcolm HD 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=malcom
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_estrenos.png" group-title="Lista 16",Movistar Estrenos HD NA
-https://3.ultimate2019.com/stream/hls/976
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png" group-title="247",Ironman 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=ironman
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_series.png" group-title="Lista 16",Movistar Series HD NA
-https://3.ultimate2019.com/stream/hls/924
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Tom y Jerry 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=tomyjerry
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="Lista 16",Movistar Comedia NA
-https://3.ultimate2019.com/stream/hls/370
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Yu-Gi-Oh! 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=yugioh
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Lista 16",Movistar Deportes 2 HD - Liga de Campeones (es) NA
-https://3.ultimate2019.com/stream/hls/367
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Two And a Half Men 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=halfmen
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Lista 16",Movistar Deportes Sur (es)
-https://3.ultimate2019.com/stream/hls/366
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", The Walking Dead 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=twdead
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="Lista 16",ESPN Premium HD
-https://3.ultimate2019.com/stream/hls/952
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Super Campeones 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=supcampeones
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Lista 16",DirecTV Sports HD
-https://3.ultimate2019.com/stream/hls/974
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Smallville 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=smallville
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Lista 16",AXN HD (ES)
-https://3.ultimate2019.com/stream/hls/713
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Scooby Doo 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=scoobydoo
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Lista 16",DHE
-https://3.ultimate2019.com/stream/hls/844
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Sakura Card Captor 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=sakura
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="Lista 16",Looney Tunes 24/7
-https://3.ultimate2019.com/stream/hls/524
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Ranma 1/2 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=ranma
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="Lista 16",Malcolm HD 24/7
-https://3.ultimate2019.com/stream/hls/798
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Pokemon 24/7 (se probo sin audio)
+https://onlive.webcindario.com/UserAgent/247.php?stream=pokemon
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png" group-title="Lista 16",Ironman 24/7
-https://3.ultimate2019.com/stream/hls/948
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Pinky y Cerebro 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=pinkyycerebro
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Mr. Bean 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=mrbean
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Hey Arnold 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=heyarnold
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Garfield 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=garfield
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Game of Thrones 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=got
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", El Pajaro Loco 24/7 (se probo sin audio)
+https://onlive.webcindario.com/UserAgent/247.php?stream=pajaroloco
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", El Principel del Rap 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=pdelrap
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", El Gallo Claudio 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=galloclaudio
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", El Conde Patula 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=condepatula
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", El Chavo del 8 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=chavodel8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Doraemon 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=doraemon
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Dragon Ball 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=dragonball
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Dragon Ball Z 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=dragonballz
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Dragon Ball GT 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=dragonballgt
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Dragon Ball Super 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=dragonballsup
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Dinosaurios 24/7 (es)
+https://onlive.webcindario.com/UserAgent/247.php?stream=dinosaurios
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Coraje el Perro Cobarde 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=perrocoraje
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Chespirito 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=chespirito
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Chapulin Colorado 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=chapulin
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Cantinflas 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=cantinflas
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Candy Candy 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=candy
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Caballeros del Zodiaco 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=cdelzodiaco
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Breaking Bad 24/7 (se probo sin audio)
+https://onlive.webcindario.com/UserAgent/247.php?stream=breakingbad
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Bob Esponja 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=bobesponja
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/.png" group-title="247", Animaniacs 24/7
+https://onlive.webcindario.com/UserAgent/247.php?stream=animaniacs
