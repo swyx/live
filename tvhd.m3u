@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/univision.jpg" group-title="Cable", Univision | HD
+https://onlive.webcindario.com/UserAgent/proxy.php?stream=univision
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/atv.jpg" group-title="Peru", ATV | HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/atvplus.jpg" group-title="Peru", ATV+ Noticias | HD
