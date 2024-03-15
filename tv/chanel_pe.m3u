@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/logo/americatv.png' group-title='Peru', America TV | HD+
+https://onlive.webcindario.com/live/tv.php?ch=america
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/logo/latina.jpg' group-title='Peru', Latina | HD+
+https://onlive.webcindario.com/live/tv.php?ch=latina
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/logo/panamericana.jpg' group-title='Peru',  Panamericana | HD+
+https://onlive.webcindario.com/live/tv.php?ch=panamericana
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/logo/atv.jpg' group-title='Peru', ATV | HD+
+https://onlive.webcindario.com/live/tv.php?ch=atv
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/logo/willax.png' group-title='Peru', Willax | HD+
+https://onlive.webcindario.com/live/tv.php?ch=willax
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/Upload/images/liga1max.png' group-title='Peru', Liga 1 Max | HD+
+https://onlive.webcindario.com/live/tv.php?ch=ligamax
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/Upload/images/golperu.jpg' group-title='Peru', Gol Peru | HD+
+https://onlive.webcindario.com/live/tv.php?ch=golperu
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/Upload/images/mdeportespe.png' group-title='Peru', Movistar Deportes | HD+
+https://onlive.webcindario.com/live/tv.php?ch=mdeporpe
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/Upload/images/mplus.png' group-title='Peru', Movistar Plus | HD+
+https://onlive.webcindario.com/live/tv.php?ch=mpluspe

@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png' group-title='Peliculas', Estelar | HD
+https://onlive.webcindario.com/live/pluto.php?ch=estelar
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png' group-title='Peliculas', Acción | HD
+https://onlive.webcindario.com/live/pluto.php?ch=accion
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png' group-title='Peliculas', Estrellas de Acción | HD
+https://onlive.webcindario.com/live/pluto.php?ch=estrellas
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/61b793ccf571b80007b7a610/thumbnail.jpg' group-title='Peliculas', Adrenalina | HD
+https://onlive.webcindario.com/live/pluto.php?ch=adrenalina
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5dcdde78f080d900098550e4/thumbnail.jpg' group-title='Peliculas', Comedia | HD
+https://onlive.webcindario.com/live/pluto.php?ch=comedia
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/thumbnail.jpg' group-title='Peliculas', Drama | HD
+https://onlive.webcindario.com/live/pluto.php?ch=drama
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/thumbnail.jpg' group-title='Peliculas', Romance | HD
+https://onlive.webcindario.com/live/pluto.php?ch=romance
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/thumbnail.jpg' group-title='Peliculas', Suspenso | HD
+https://onlive.webcindario.com/live/pluto.php?ch=suspenso
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/624af40c004f8000079b784d/thumbnail.jpg' group-title='Peliculas', Crimen | HD
+https://onlive.webcindario.com/live/pluto.php?ch=crimen
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/thumbnail.jpg' group-title='Peliculas', Terror | HD
+https://onlive.webcindario.com/live/pluto.php?ch=terror
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/thumbnail.jpg' group-title='Peliculas', SCIFI | HD
+https://onlive.webcindario.com/live/pluto.php?ch=scifi
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/thumbnail.jpg' group-title='Peliculas', Run Time | HD
+https://onlive.webcindario.com/live/pluto.php?ch=runtime
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5fcea359e533cb0007215c71/thumbnail.jpg' group-title='Peliculas', Fil Stream | HD
+https://onlive.webcindario.com/live/pluto.php?ch=filmstream
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/thumbnail.jpg' group-title='Peliculas', Nuestro Cine | HD
+https://onlive.webcindario.com/live/pluto.php?ch=nuestrocine
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/thumbnail.jpg' group-title='Peliculas', Clasico | HD
+https://onlive.webcindario.com/live/pluto.php?ch=clasico
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg' group-title='Peliculas', Familia | HD
+https://onlive.webcindario.com/live/pluto.php?ch=familia
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/Upload/images/plutoparamount.webp' group-title='Extras', Paramount+ | HD
+https://onlive.webcindario.com/live/pluto.php?ch=paramount
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/thumbnail.jpg' group-title='Series', CSI:Miami | HD
+https://onlive.webcindario.com/live/pluto.php?ch=csimiami
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/thumbnail.jpg' group-title='Series', NCSI | HD
+https://onlive.webcindario.com/live/pluto.php?ch=ncsi
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5dcde1317578340009b751d0/thumbnail.jpg' group-title='Series', Series | HD
+https://onlive.webcindario.com/live/pluto.php?ch=series
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/thumbnail.jpg' group-title='Series', Night Shift | HD
+https://onlive.webcindario.com/live/pluto.php?ch=nightshift
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/thumbnail.jpg' group-title='Series', Younger | HD
+https://onlive.webcindario.com/live/pluto.php?ch=younger
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/thumbnail.jpg' group-title='Series', Dramas Coreanos | HD
+https://onlive.webcindario.com/live/pluto.php?ch=dramacorea
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/639751f81a36b400072b8f5a/thumbnail.jpg' group-title='Series', Kanal D Drama | HD
+https://onlive.webcindario.com/live/pluto.php?ch=vivekanal
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/thumbnail.jpg' group-title='Series', Espana | HD
+https://onlive.webcindario.com/live/pluto.php?ch=espana
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5dd837642c6e9300098ad484/thumbnail.jpg' group-title='Series',  | HD
+https://onlive.webcindario.com/live/pluto.php?ch=serieslatinas
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/5de802659167b10009e7deba/thumbnail.jpg' group-title='Retro', Series Retro | HD
+https://onlive.webcindario.com/live/pluto.php?ch=seriesretro
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/631fb6be21b7440007b9f606/thumbnail.jpg' group-title='Retro', Hechizada | HD
+https://onlive.webcindario.com/live/pluto.php?ch=hechizada
+#EXTINF:-1 tvg-logo='https://images.pluto.tv/channels/6487761d17f5e10008cbc000/thumbnail.jpg' group-title='Retro', Los Angeles de Charlie | HD
+https://onlive.webcindario.com/live/pluto.php?ch=angelesdecharlie
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/Upload/images/plutoonepiece_1.jpg' group-title='Anime', One Piece | HD
+https://onlive.webcindario.com/live/pluto.php?ch=onepiece
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/logo/rakutenaction.jpg' group-title='Peliculas', Rakuten Action | HD
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/logo/rakutencomedy.jpg' group-title='Peliculas', Rakuten Comedy | HD
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/logo/rakutendrama.jpg' group-title='Peliculas', Rakuten Drama | HD
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/logo/rakutenfamily.jpg' group-title='Retro', Rakuten Family | HD
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo='https://onlive.webcindario.com/logo/rakutenspotlight.jpg' group-title='Retro', Rakuten Spotlight | HD
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+
