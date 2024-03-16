@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/axn.jpg" group-title="Peliculas", AXN | HD+
+http://167.250.222.35:16000/play/a07o/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/amc.jpg" group-title="Peliculas", AMC | HD+ (960)
+http://167.250.222.35:16000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/amc.jpg" group-title="Peliculas", AMC O2 | HD+
+http://138.219.58.234:8112/play/116
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/animalplanet.jpg" group-title="Cable;Internacional", Animal Planet | HD+
+http://138.219.58.234:8112/play/025
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cinecanal.png" group-title="Peliculas", Cinecanal | HD+
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cinemax.jpg" group-title="Peliculas", Cinemax | HD+
+http://138.219.58.234:8112/play/112
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cartoonetwork.jpg" group-title="Infantil", Cartoon Network | HD+
+http://138.219.58.234:8112/play/009
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/comedycentral.jpg" group-title="Cable", Comedy Central | HD+
+http://167.250.222.35:16000/play/a098/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/disneychannellatam.jpg" group-title="Infantil", Disney Channel | HD+
+http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/disneychannellatam.jpg" group-title="Infantil", Disney Channel O2 | HD+
+http://138.219.58.234:8112/play/010
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverytheater.jpg" group-title="Cable", Discovery Theater | HD+ (1440)
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverylatam.png" group-title="Cable;Internacional", Discovery | HD+
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/investigationdiscovery.jpg" group-title="Cable", Discovery ID | HD +
+http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryworld.png" group-title="Cable;Internacional", Discovery World | HD+
+http://45.166.92.22:58001/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryhhlatam.jpg" group-title="Cable;Internacional", Discovery H&H | HD+
+http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverykidslatam.png" group-title="Infantil", Discovery Kids | HD+
+http://138.219.58.234:8112/play/005
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/Upload/images/eentertainment.png" group-title="Infantil", E! Entertainment | HD+
+http://167.250.222.35:16000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/Upload/images/espn5.png" group-title="Deportes", ESPN 5 | HD+
+http://138.219.58.234:8112/play/218
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/Upload/images/espn6.webp" group-title="Deportes", ESPN 6 | HD+
+http://138.219.58.234:8112/play/211
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/Upload/images/espn7.webp" group-title="Deportes", ESPN 7 | HD+
+http://138.219.58.234:8112/play/210
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="Deportes", ESPN Premium | HD+
+http://138.219.58.234:8112/play/209
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/fx.png" group-title="Peliculas", FX | HD+
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/goltv.jpg" group-title="Deportes", GolTV | HD+
+http://45.166.92.22:58001/play/a04k/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/hbousa.jpg" group-title="Internacional", HBO | HD+
+http://167.250.222.35:16000/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/hbodos.png" group-title="Peliculas", HBO 2 | HD+
+http://167.250.222.35:16000/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/hboplus.png" group-title="Peliculas", HBO Plus | HD+
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/hboxtreme.png" group-title="Peliculas", HBO Xtreme | HD+
+http://167.250.222.35:16000/play/a08k/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/hbofamily.png" group-title="Peliculas", HBO Family | HD+
+http://167.250.222.35:16000/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/historychannel.jpg" group-title="Cable", History Channel | HD+
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/Upload/images/history2.jpg" group-title="Cable", History 2 | HD+
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/Upload/images/mtv.png" group-title="Musica", MTV | HD+
+http://167.250.222.35:16000/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/Upload/images/mtvlive.png" group-title="Musica", MTV Live | HD+
+http://167.250.222.35:16000/play/a099/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/nick.jpg" group-title="Infantil", Nickelodeon | HD+
+http://138.219.58.234:8112/play/014
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/paramountnetwork.jpg" group-title="Cable", Paramount | HD+
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/sonychannel.png" group-title="Peliculas", Sony Channel | HD+
+http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/spacelatam.png" group-title="Peliculas", Space | HD+
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/starchannel.png" group-title="Peliculas", Star Channel | HD+
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/starchannel.png" group-title="Peliculas", Star Channel O2 | HD+
+http://138.219.58.234:8112/play/083
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/universalstudio.jpg" group-title="Peliculas", Studio Universal | HD+
+http://138.219.58.234:8112/play/098
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/tnt.png" group-title="Peliculas", TNT | HD+
+http://167.250.222.35:16000/play/a094/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/tntseries.png" group-title="Peliculas", TNT Series | HD+
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/tntsports.jpg" group-title="Deportes", TNT Sports | HD+
+http://138.219.58.234:8112/play/233
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/tcsports.png" group-title="Deportes", TyC Sports | HD+
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/telemundointernacional.png" group-title="Cable", Telemundo Internacional | HD+ (960)
+http://45.166.92.22:58001/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/universalcomedy.png" group-title="Peliculas", Universal Comedy | HD+
+http://167.250.222.35:16000/play/a09e/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/Upload/images/universalpremiere.png" group-title="Peliculas", Universal Premiere | HD+
+http://45.166.92.22:58001/play/a05n/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/universalreality.png" group-title="Peliculas", Universal Reality | HD+
+http://45.166.92.22:58001/play/a05p/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/universalcinema.png" group-title="Peliculas", Universal Cinema | HD+
+http://45.166.92.22:58001/play/a01t/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/universalcrime.png" group-title="Peliculas", Universal Crime | HD+
+http://167.250.222.35:16000/play/a09d/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/univision.jpg" group-title="Cable", Univision | HD+
+http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/warnerchanneltv.jpg" group-title="Peliculas", Warner Channel | HD+
+http://138.219.58.234:8112/play/081
